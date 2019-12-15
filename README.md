@@ -2,7 +2,7 @@
 
 The project demostates my work with Pandas 
 
-# There were severl deliverables analyzing a small school district:
+# Deliverables analyzing a small school district
 
 A high-level snapshot of the district's key metrics, presented in a table format
 
